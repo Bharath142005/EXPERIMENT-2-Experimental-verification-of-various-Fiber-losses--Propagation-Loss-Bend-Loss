@@ -9,7 +9,12 @@ To measure propagation and bending losses for two wavelengths in plastic fiber.
 - Patch chords  
 - Oscilloscope  
 - Function Generator  
-- Fiber cables  
+- Fiber cables
+
+  **Block Diagram:**
+
+  <img width="784" height="416" alt="image" src="https://github.com/user-attachments/assets/c58fc769-8d83-4524-be46-d47fffd36429" />
+
 
 **Theory:**  
 - Losses due to absorption, scattering, bending  
@@ -25,17 +30,8 @@ V1/V2 = e [ -a (L1+L2 ) ]
 
 **Tabulation:**
 
-### Propagation Loss
+![WhatsApp Image 2025-11-23 at 19 08 42_0549bd19](https://github.com/user-attachments/assets/82539e2b-a941-48eb-93d6-ee32c0d9f7f6)
 
-| Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
-|--------------|---------------------|------------------------|
-|              |                     |                        |
-
-### Bending Loss
-
-| Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
-|------------------|---------------------|------------------------|
-|                  |                     |                        |
 
 **Result:**  
 Attenuation and bending loss characteristics verified.
